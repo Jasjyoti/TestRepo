@@ -6,6 +6,7 @@ public class FirstGitTrial {
 		System.out.println("Commit First Project");
 		System.out.println("Yes First Commit worked Out");
 		System.out.println("I tried push");
+		System.out.println("I tried pull")
 
 	}
 
